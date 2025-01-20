@@ -5,7 +5,7 @@ I’m **Andreas**, a passionate deep learning researcher specializing in compute
 ![GitHub stars](https://img.shields.io/github/stars/AndiML?label=Stars&style=social)
 ![arXiv](https://img.shields.io/badge/arXiv-2411.01240-660099?style=flat&logo=arxiv&logoColor=white)
 ![Fraunhofer HHI](https://img.shields.io/badge/Fraunhofer-HHI-brightgreen?style=flat&logo=fraunhofer&logoColor=white)
-[![Publications](https://img.shields.io/badge/Publications-2-blue?style=flat&logo=book&logoColor=white)](#publications)
+[![Publications](https://img.shields.io/badge/Publications-2-blue?style=flat&logo=book&logoColor=white)](##publications)
 
 
 
