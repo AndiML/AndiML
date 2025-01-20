@@ -3,7 +3,7 @@
 I’m **Andreas**, a passionate deep learning researcher specializing in computer vision, federated learning, and efficient AI systems.
 
 ![GitHub stars](https://img.shields.io/github/stars/AndiML?label=Stars&style=social)
-![Fraunhofer HHI](https://img.shields.io/badge/Fraunhofer-HHI-brightgreen?style=flat&logo=fraunhofer&logoColor=white)
+[![Fraunhofer HHI](https://img.shields.io/badge/Fraunhofer-HHI-brightgreen?style=flat&logo=fraunhofer&logoColor=white)](https://www.hhi.fraunhofer.de/)
 [![arXiv](https://img.shields.io/badge/arXiv-View%20Papers-660099?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/search/?query=Andreas+Lutz&searchtype=author&source=header)
 [![Publications](https://img.shields.io/badge/Publications-2-blue?style=flat&logo=book&logoColor=white)](#publications)
 
