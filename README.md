@@ -20,7 +20,7 @@ I am currently part of the Efficient Deep Learning Group at Fraunhofer HHI.
 
 ## 📚 Publications
 
-- **Optimizing Federated Learning by Entropy-Based Client Selection**  
+- **Boosting Federated Learning with FedEntOpt: Mitigating Label Skew by Entropy-Based Client Selection**  
   *Andreas Lutz*, Gabriele Steidl, Karsten Müller, Wojciech Samek  
   [arXiv:2411.01240](https://arxiv.org/abs/2411.01240)
 
