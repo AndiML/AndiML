@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Andreas**, a passionate deep learning researcher specializing in computer vision, federated learning, and efficient AI systems.
+I’m **Andreas**, a passionate deep learning researcher specializing in computer vision, federated learning, and representation learning for medical applications.
 I am currently part of the Efficient Deep Learning Group at Fraunhofer HHI.
 
 ![GitHub stars](https://img.shields.io/github/stars/AndiML?label=Stars&style=social)
