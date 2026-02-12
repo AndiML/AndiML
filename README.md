@@ -22,11 +22,11 @@ I am currently part of the Efficient Deep Learning Group at Fraunhofer HHI.
 
 - **Optimizing Federated Learning by Entropy-Based Client Selection**  
   *Andreas Lutz*, Gabriele Steidl, Karsten Müller, Wojciech Samek  
-  [document/11336673](https://ieeexplore.ieee.org/abstract/document/11336673)
+  [link](https://ieeexplore.ieee.org/abstract/document/11336673)
 
 - **A Privacy Preserving System for Movie Recommendations Using Federated Learning**  
   David Neumann, *Andreas Lutz*, Karsten Müller, Wojciech Samek  
-  [DOI:10.1145/3634686](https://doi.org/10.1145/3634686)
+  [link](https://doi.org/10.1145/3634686)
 
 ## 📊 GitHub Stats
 ![AndiML's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndiML&show_icons=true&theme=radical)
