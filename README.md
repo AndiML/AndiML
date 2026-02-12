@@ -22,7 +22,7 @@ I am currently part of the Efficient Deep Learning Group at Fraunhofer HHI.
 
 - **Boosting Federated Learning with FedEntOpt: Mitigating Label Skew by Entropy-Based Client Selection**  
   *Andreas Lutz*, Gabriele Steidl, Karsten Müller, Wojciech Samek  
-  [arXiv:2411.01240](https://ieeexplore.ieee.org/abstract/document/11336673)
+  [document/11336673](https://ieeexplore.ieee.org/abstract/document/11336673)
 
 - **A Privacy Preserving System for Movie Recommendations Using Federated Learning**  
   David Neumann, *Andreas Lutz*, Karsten Müller, Wojciech Samek  
